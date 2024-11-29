@@ -1,1 +1,1 @@
-https://shorturl.asia/BY2vS
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Quirlynxxx/Fisch/refs/heads/main/Fisch.lua"))()
