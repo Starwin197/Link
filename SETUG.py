@@ -26,8 +26,8 @@ def login():
 def download_python_file():
     console.print("[bold cyan]ฟังก์ชันติดตั้งไฟล์ .py จาก URL[/bold cyan]")
     files = {
-        "1": {"name": "ROKID FREE", "url": "https://raw.githubusercontent.com/thieusitinks/Rokid-Manager/refs/heads/main/Rokid-UgPhone-Free-Tool.py", "filename": "Rokid-UgPhone-Free-Tool.py"},
-        "2": {"name": "ROKID PREMIUM", "url": "https://raw.githubusercontent.com/RokidManager/neyoshiiuem/refs/heads/main/Rokid-UGPhone.py", "filename": "Rokid-UGPhone.py"},
+        "1": {"name": "ROKID FREE", "url": "https://raw.githubusercontent.com/thieusitinks/Rokid-Manager/refs/heads/main/Rokid-UgPhone-Free-Tool", "filename": "Rokid-UgPhone-Free-Tool.py"},
+        "2": {"name": "ROKID PREMIUM", "url": "https://raw.githubusercontent.com/RokidManager/neyoshiiuem/refs/heads/main/Rokid-UGPhone", "filename": "Rokid-UGPhone.py"},
     }
 
     # แสดงรายการไฟล์ Python ที่สามารถดาวน์โหลด
